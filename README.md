@@ -1,15 +1,16 @@
-## Olá! Eu me chamo Samuel Luiz
- <div>
-  <a href="https://github.com/samuelsouza771">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsouza771&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=header&reversal=false"/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=0&color=976FEC&&width=600&lines=;I'm+Sam+Souza,+Back-End+Student.;Philosophy+Enthusiast;)
+
+<div style="display: flex;">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuelsouza771&show_icons=true&count_private=true&hide_border=true&title_color=6959CD&icon_color=FFA500&text_color=c9d1d9&bg_color=0d1117" alt="nothing" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsouza771&layout=compact&hide_border=true&title_color=6959CD&text_color=ff91a4&bg_color=0d1117" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+# Learning
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="8" />
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/slcss771/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href = "mailto:contatosamuelluizsouza771@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=footer&reversal=false"/>
