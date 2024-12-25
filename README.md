@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=0&color=976FEC&&width=600&lines=;I'm+Sam+Souza,+Back-End+Student.;Philosophy+Enthusiast;Muay+Thai+Athlete)
 
-<img src="https://c.tenor.com/rJxGy9CYwHoAAAAd/tenor.gif" width="450px" align="right" />
+<img src="https://c.tenor.com/rJxGy9CYwHoAAAAd/tenor.gif" width="400px" align="right" />
 
 <div style="display: flex;">
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuelsouza771&show_icons=true&count_private=true&hide_border=true&title_color=6959CD&icon_color=FFA500&text_color=c9d1d9&bg_color=0d1117" alt="nothing" /> 
