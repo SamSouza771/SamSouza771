@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6959CD&textBg=false&fontColor=FFFFFF&fontSize=18&descAlignY=31&descAlign=29&section=header&reversal=false"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=0&color=976FEC&&width=600&lines=;I'm+Sam+Souza,+Back-End+Student.;Philosophy+Enthusiast;Muay+Thai+Athlete)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=0&color=976FEC&&width=600&lines=;I'm+Sam+Souza)
 
 <div style="display: flex;">
   <img src="https://media1.tenor.com/m/3yNUtUfO_mgAAAAC/cats-anime.gif" width="400px" align="right" />
